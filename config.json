@@ -1,0 +1,18 @@
+{
+    "params": {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/codingthunder",
+        "prod_uri": "mysql://root:@localhost/codingthunder",
+        "fb_url": "https://facebook.com/codingthunder",
+        "tw_url": "https://twitter.com/codingthunder",
+        "gh_url": "https://github.com/codingthunder",
+        "gmail-user": "pratham.1si19cs093@gmail.com",
+        "gmail-password":"Prooosss%123",
+        "no_of_posts": 1,
+        "blog_name": "Coding Thunder",
+        "login_image": "login.jpg",
+        "admin_user": "Pro",
+        "admin_pass": "Pro123",
+        "upload_location": "C:\\Users\\PRATHAM GUPTA\\PycharmProjects\\FlaskLearning\\static"
+    }
+}
